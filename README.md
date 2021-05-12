@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ningali
-- 👀 I love coding
-- 🌱 I’m currently learning web development
+- 👋 Hi, welcome to my GitHub. I’m @ningali
+- 👀 I love coding and cooking
+- 🌱 I’m currently learning web development in Java and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - ningali@seas.upenn.edu
 
