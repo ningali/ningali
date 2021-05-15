@@ -1,7 +1,7 @@
 - 👋 Hi, welcome to my GitHub. I’m @ningali
-- 👀 I love coding and cooking
+- 🍳 I love coding and cooking
 - 🌱 I’m currently learning web development in Java and Python
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m looking to internship
 - 📫 How to reach me - ningali@seas.upenn.edu
 
 <!---
